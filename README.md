@@ -6,7 +6,7 @@ PortAuthority is a simple network utility made with Flask that allows you to inp
 # Install
 Installation is simple. Make sure you have the most recent version of Flask downloaded and then simply run the following command:
 ```shell
-python app.py
+FLASK_APP=app.py flask run
 ```
 Now you are good to go! Have fun port scanning!
 
